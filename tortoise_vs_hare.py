@@ -2,7 +2,7 @@
 ## This program shows a race between a Tortoise and a Hare from a sky view. We have here two functions, one for tortoise
 # movement and the other for Hare movement. At the bottom we have a while loop to count the number of "seconds" the race takes.
 
-# Below are the turtle operations used for program
+# Below are the turtle operations used for the program
 
 import turtle
 
