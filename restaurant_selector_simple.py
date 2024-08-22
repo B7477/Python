@@ -3,7 +3,7 @@
 # In this program the user will answer three questions regarding a parties dietary resrictions. The program
     # will then output a response of which restaurants are best for the party.
 
-print(f'For the following questions, enter yes or no: ')
+print('For the following questions, enter yes or no: ')
 vegetarian = input('Is anyone of this party a vegetarian? ').lower()
 vegan = input('Is anyone of this party a vegan? ').lower()
 gluten_free = input('Is anyone of this party a gluten free? ').lower()
